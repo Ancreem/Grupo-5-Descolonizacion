@@ -1,4 +1,4 @@
-# Grupo-5-Desconolizacion
+# Grupo-5-Descolonización
 Este aplicativo consiste en una pagina web donde aplicamos los conocimientos suministrados por el Trainer Juan Mariño.
 
 En este proyecto trabajaremos aspectos importantes que deberia poseer un desarollador web tales como:
