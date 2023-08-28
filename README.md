@@ -36,6 +36,9 @@ Las principales causas de que Sahara Occidental sea aun un territorio no autonom
 ### Objetivo
 El objetivo del proyecto es informar por medio de una pagina web con estructura intuitiva para el usuario en formato de articulo sobre las principales causas mencionadas de su fallida Desconolizacion, trabajar razones puntuales que dificultan esta obtencion de indepencia, exponer la realidad de los habitantes de este pais y como viven este conficto actualmente, evidenciar los antecendentes que han permitido que esta situacion prevalezca hasta actualidad y la vision de los paises aledaños al conficto.
 
+### Wireframe
+El Wireframe se realizó mediante Mockflow, donde se busco la mayor simplicidad a la vista del usuario, con colores tenues y acorde a las imagenes propuestas en el proyecto. 
+
 
 
 ### Bibliografia 
