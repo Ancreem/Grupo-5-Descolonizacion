@@ -25,16 +25,16 @@ Cuando nace la ONU en 1945 aproximadamente unas 750 millones de personas vivian 
 
 ---
 
-### Problema - ¿Porque no ha sido Descolonizada Sáhara Occidental?
+### Problema - ¿Por qué no ha sido Descolonizada Sáhara Occidental?
 
 **Sáhara Occidental** es un pais que se encuentra en el Noroccidente de África en frontera con Marruecos, Mauritania y Argelia. cuenta con 266.000 kilometros cuadrados de territorio y grandes reservas de fosfato, además de ser uno de los bancos pesqueros más ricos del mundo.
 
 Las principales causas de que Sahara Occidental sea aun un territorio no autonomo son:
   * **La Disputa territorial** entre **Marruecos** y el **Frente Polisario**, esta disputa entorpece el proceso de Descolonizacion debido a que por interés internacionales permiten que este conflicto continue para extraer recursos o inyectar ayudas economicas segun convenga el bando.
-  * **Falta de consenso Internacional** ya que no hay una iniciativa general de los paises de reconocer a Sahara Occidental como un territorio autonomo, su apoyo hacia marruecos que posee actualmente posesion el 80% del territorio dificulta la obtencion de Desconolizacion por el medio pacífico y conversación.
+  * **Falta de consenso Internacional** ya que no hay una iniciativa general de los paises de reconocer a Sahara Occidental como un territorio autonomo, su apoyo hacia marruecos que posee actualmente posesion el 80% del territorio dificulta la obtencion de Desconolización por el medio pacífico y conversación.
 
 ### Objetivo
-El objetivo del proyecto es informar por medio de una pagina web con estructura intuitiva para el usuario en formato de articulo sobre las principales causas mencionadas de su fallida Desconolizacion, trabajar razones puntuales que dificultan esta obtencion de indepencia, exponer la realidad de los habitantes de este pais y como viven este conficto actualmente, evidenciar los antecendentes que han permitido que esta situacion prevalezca hasta actualidad y la vision de los paises aledaños al conficto.
+El objetivo del proyecto es informar por medio de una pagina web con estructura intuitiva para el usuario en formato de articulo sobre las principales causas mencionadas de su fallida Desconolización, trabajar razones puntuales que dificultan esta obtencion de indepencia, exponer la realidad de los habitantes de este pais y como viven este conficto actualmente, evidenciar los antecendentes que han permitido que esta situacion prevalezca hasta actualidad y la vision de los paises aledaños al conficto.
 
 ### Wireframe
 El Wireframe se realizó mediante Mockflow, donde se busco la mayor simplicidad a la vista del usuario, con un diseño agradable y adaptado a dos plataformas (Desktop y Smartphone).
@@ -74,7 +74,7 @@ https://miasesordetesis.com/como-redactar-el-planteamiento-del-problema-paso-a-p
 
 * BBC News Mundo, (2022). Sahara Occidental: 5 claves para entender este conflicto olvidado. BBC News mundo. https://www.bbc.com/mundo/noticias-internacional-55350989
 
-* Bouaziz Fatima, (2022). ¿En que consiste el plan de autonomía para el Sahara occidental?.swissinfo. https://www.swissinfo.ch/spa/marruecos-españa-sahara_-en-qué-consiste-el-plan-de-autonomía-para-el-sáhara-occidental-/47448902
+* Bouaziz Fatima, (2022). ¿En qué consiste el plan de autonomía para el Sahara occidental?.swissinfo. https://www.swissinfo.ch/spa/marruecos-españa-sahara_-en-qué-consiste-el-plan-de-autonomía-para-el-sáhara-occidental-/47448902
 
 * Fachal Sonia, (2015). SAHARA OCCIDENTAL: Situación de jóvenes y manifestantes. Comisión Española de Ayuda al Refugiado. https://www.cear.es/wp-content/uploads/2013/08/Sáhara-Occidental.2015.Jóvenes-y-Manifestantes.pdf
 
