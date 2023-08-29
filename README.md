@@ -15,13 +15,13 @@ En este proyecto trabajaremos aspectos importantes que deberia poseer un desarol
 ## La Ultima Colonia De África 
 
 ### ¿Que es la Descolonizacion?
-Definase cuando un territorio deja de estar arraigado a una colonia y pasa a ser autonomo e indepentiente. Dicho territorio es reconocido como autosuficiente y pasa a ser parte de la ONU (Organizacion de Naciones Unidas). 
+Defínase cuando un territorio deja de estar arraigado a una colonia y pasa a ser autónomo e independiente. Dicho territorio es reconocido como autosuficiente y pasa a ser parte de la ONU (Organización de Naciones Unidas).
 
-En la Segunda Guerra mundial las principales potencias europeas (Bélgica, Francia y Reino Unido) estaban bajo lucha contra la Alemania Nazi, los habitantes de estas colonias se sumaron a esta guerra buscando como objetivo ser recompensados con la independencia gracias a su servicio pero las colonias no permitireron esto.
+En la Segunda Guerra mundial las principales potencias europeas (Bélgica, Francia y Reino Unido) estaban bajo lucha contra la Alemania Nazi, los habitantes de estas colonias se sumaron a esta guerra buscando como objetivo ser recompensados con la independencia gracias a su servicio, pero las colonias no permitieron esto.
 
-Estados Unidos y la Unión Soviética tomaron protagonismo y cuestionaron el sistema colonial que se manejaba en Europa, aqui nacio el concepto pre-liminar de la ONU, donde le darian el golpe de gracia al Colonialismo y daria paso al imperialismo Estadounidense y Sóvietico.
+Estados Unidos y la Unión Soviética tomaron protagonismo y cuestionaron el sistema colonial que se manejaba en Europa, aquí nació el concepto preliminar de la ONU, donde le darían el golpe de gracia al Colonialismo y daría paso al imperialismo Estadounidense y Soviético.
 
-Cuando nace la ONU en 1945 aproximadamente unas 750 millones de personas vivian o estaban bajo control de las potencias Coloniales de aquella época. Finalizada la Segunda Guerra Mundial los territorios fueron reestructurados y la ONU se planteo como uno de sus objetivos la Descolonizacion de todo territorio existente, actualmente en el planeta existen 17 territorios que no han logrado la Descolonizacion.
+Cuando nace la ONU en 1945, aproximadamente unos 750 millones de personas vivían o estaban bajo control de las potencias Coloniales de aquella época. Finalizada la Segunda Guerra Mundial los territorios fueron reestructurados y la ONU se planteó como uno de sus objetivos la Descolonización de todo territorio existente, actualmente en el planeta existen 17 territorios que no han logrado la Descolonización.
 
 ---
 
