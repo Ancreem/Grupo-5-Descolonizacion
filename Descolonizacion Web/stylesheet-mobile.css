@@ -36,4 +36,24 @@
         object-fit: cover;
         border-radius: 15px;
     }
+
+    /* Seccion ¿Por qué Sáhara Occidental sigue sin ser descolonizada? */
+
+    /* contenedor titulo h3 */
+    .titulo-h3-izquierda{
+        margin-left: 15%;
+        margin-right: 15%;
+        border-radius: 35px;
+        background-color: #435334;
+    }
+
+    /* texto h3 centrado */
+    .titulo-h3-izquierda h3{
+        text-align: center;
+    }
+
+
+    
+
+
 }
