@@ -1,2 +1,39 @@
 @media (max-width: 900px){
+
+    /*Seccion Que es*/
+    .titulo{
+        margin-left: 15%;
+        margin-right: 15%;
+        border-radius: 35px;
+        background-color: #435334;
+    }
+    /*Contenedor Princial*/
+    .texto-izq{
+        display: flex;
+        flex-direction: column;
+        background-color: #9EB384;
+        border-radius: 35px;
+    }
+    /*Parrafo*/
+    .text{
+        width: auto;
+        padding: 30px;
+        background-color: #435334b0;
+        border-radius: 45px;
+        margin: 20px;
+        color: #fffdfb;
+    }
+    /*Contenedor Imagen*/
+    .imagen{
+        padding: 15px;
+        width: auto;
+    }
+
+    /*Dimension Imagen*/
+    .imagen img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 15px;
+    }
 }
