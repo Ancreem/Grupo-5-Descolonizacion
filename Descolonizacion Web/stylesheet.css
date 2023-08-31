@@ -5,6 +5,26 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: rgba(#FAF1E4);
 }
+
+/* Pre-sets*/
+article h2{
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+    background-color: #CEDEBD;
+}
+
+article h3{
+    padding-bottom: 30px;
+}
+
+
+/*NAV BAR*/
 #navbarNav{
     justify-content: end;
 }
@@ -18,12 +38,11 @@ body{
 
 }
 
-.container{
-    max-width: 1200px;
-    margin: auto;
-    background-color: #CEDEBD;
-}
 
+
+/* Header Banner */
+
+/*TITULO*/
 #banner h1{
     color: white;
     font-size: 80px;
@@ -31,7 +50,7 @@ body{
     padding-bottom: 100px;
 
 }
-
+/*Style Banner Background*/
 #banner{
     display: flex;
     align-items: center;
@@ -45,14 +64,29 @@ body{
     text-align: center;
 }
 
+
+/* Inicio de Secciones */
 section{
     padding: 30px ;
 }
 
+/* Edicion Padding Articulos*/
 article{
     padding: 10px;
 }
 
+
+/* ---- PRIMERA SECCION - QUE ES* -----/
+
+/*Titulo de Seccion - Que es*/
+.titulo{
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 35px;
+    background-color: #435334;
+}
+
+/*Contenedor Principal*/
 .texto-izq{
     display: flex;
     padding: 4vh;
@@ -61,23 +95,7 @@ article{
     
 }
 
-.titulo{
-    margin-left: 25%;
-    margin-right: 25%;
-    border-radius: 35px;
-    background-color: #435334;
-}
-
-article h2{
-    text-align: center;
-    padding: 30px;
-    color: white;
-}
-
-article h3{
-    padding-bottom: 30px;
-}
-
+/*Parrafo*/
 .text{
     width: 50%;
     padding: 30px;
@@ -87,12 +105,13 @@ article h3{
     color: #fffdfb;
 }
 
+/*Contenedor de Imagen*/
 .imagen{
     padding: 15px;
     width: 50%;
-    
 }
 
+/*Dimension Imagen*/
 .imagen img {
     width: 100%;
     height: 100%;
@@ -100,6 +119,25 @@ article h3{
     border-radius: 15px;
 }
 
+
+
+/*Porque Sahara sigue sin ser Descolonizada*/
+
+/*Contenedor Titulo*/
+.titulo-h3-izquierda{
+    margin-right: 25%;
+    border-radius: 35px;
+    background-color: #435334;
+}
+
+/*Titulo texto*/
+.titulo-h3-izquierda h3{
+    text-align: left;
+    padding: 30px;
+    color: white;
+}
+
+/*Contenedor texto*/
 .text-mitad{
     width: auto;
     padding: 30px;
@@ -109,14 +147,21 @@ article h3{
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
+/*Parrafo*/
+.text-mitad {
+    background-color: #435334b0;
+    color: white;
+}
+
+
+/*Contenedor Imagen Niña*/
 .imagen-niña{
-    padding: 15px;
+    margin: 15px;
     width: auto;
 }
-
+/*Dimension Imagen Niña*/
 .imagen-niña img {
     width: 100%;
     height: 100%;
@@ -124,31 +169,47 @@ article h3{
     border-radius: 15px;
 }
 
-.titulo-h3-izquierda{
-    margin-right: 25%;
+/*  --- MOTIVOS  ---*/
+
+/*Contenedor Titulo Motivos*/
+.titulo-h3-mitad{
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 35px;
+    background-color: #435334;
+}
+/*Titulo Motivos texto*/
+.titulo-h3-mitad h3{
+    text-align: center;
+    padding: 15px;
+    font-size: 39px;
+    color: white;
+}
+
+/*Contenedor Principal*/
+
+.texto-der {
+    border-radius: 35px;
+    background-color: aqua;
+}
+
+/* Contenedor titulo Disputa Territorial */
+.sub-titulo-h3-Motivos{
+    margin-top: 15px;
+    margin-right: 50%;
     border-radius: 35px;
     background-color: #435334;
 }
 
-.titulo-h3-izquierda h3{
+/*Titulo texto*/
+.sub-titulo-h3-Motivos h3{
     text-align: left;
     padding: 30px;
     color: white;
 }
 
-.titulo-h3-mitad{
-    margin-left: 30%;
-    margin-right: 30%;
-    border-radius: 35px;
-    background-color: #435334;
-}
-
-.titulo-h3-mitad h3{
-    text-align: center;
-    padding: 30px;
-    color: white;
-}
 
 
 
-
+/*<----------------------------------------------->*/
