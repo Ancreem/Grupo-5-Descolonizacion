@@ -79,7 +79,7 @@ article{
 /* ---- PRIMERA SECCION - QUE ES* -----/
 
 /*Titulo de Seccion - Que es*/
-.titulo{
+.titulo-que-es{
     margin-left: 25%;
     margin-right: 25%;
     border-radius: 35px;
@@ -87,7 +87,7 @@ article{
 }
 
 /*Contenedor Principal*/
-.texto-izq{
+.cont-que-es{
     display: flex;
     padding: 4vh;
     background-color: #9EB384;
@@ -96,7 +96,7 @@ article{
 }
 
 /*Parrafo*/
-.text{
+.texto-que-es{
     width: 50%;
     padding: 30px;
     background-color: #435334b0;
@@ -106,13 +106,13 @@ article{
 }
 
 /*Contenedor de Imagen*/
-.imagen{
+.imagen-que-es{
     padding: 15px;
     width: 50%;
 }
 
 /*Dimension Imagen*/
-.imagen img {
+.imagen-que-es img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -124,21 +124,28 @@ article{
 /*Porque Sahara sigue sin ser Descolonizada*/
 
 /*Contenedor Titulo*/
-.titulo-h3-izquierda{
+.titulo-porque-sahara{
     margin-right: 25%;
     border-radius: 35px;
     background-color: #435334;
 }
 
+.cont-porque-sahara{
+    display: flex;
+    padding: 4vh;
+    background-color: #9EB384;
+    border-radius: 35px;
+}
+
 /*Titulo texto*/
-.titulo-h3-izquierda h3{
+.titulo-porque-sahara h3{
     text-align: left;
     padding: 30px;
     color: white;
 }
 
 /*Contenedor texto*/
-.text-mitad{
+.texto-porque-sahara{
     width: auto;
     padding: 30px;
     background-color: #79797927;
@@ -150,19 +157,18 @@ article{
 }
 
 /*Parrafo*/
-.text-mitad {
+.texto-porque-sahara {
     background-color: #435334b0;
     color: white;
 }
 
-
 /*Contenedor Imagen Niña*/
-.imagen-niña{
+.imagen-porque-sahara{
     margin: 15px;
     width: auto;
 }
 /*Dimension Imagen Niña*/
-.imagen-niña img {
+.imagen-porque-sahara img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -172,7 +178,7 @@ article{
 /*  --- MOTIVOS  ---*/
 
 /*Contenedor Titulo Motivos*/
-.titulo-h3-mitad{
+.titulo-motivos{
     margin-top: 5%;
     margin-left: 35%;
     margin-right: 35%;
@@ -180,7 +186,7 @@ article{
     background-color: #435334;
 }
 /*Titulo Motivos texto*/
-.titulo-h3-mitad h3{
+.titulo-motivos h3{
     text-align: center;
     padding: 15px;
     font-size: 39px;
@@ -188,7 +194,7 @@ article{
 }
 
 /*Contenedor Principal*/
-.texto-der {
+.cont-motivos {
     padding: 4vh;
     background-color: #9EB384;
     border-radius: 35px;
@@ -198,25 +204,25 @@ article{
 }
 
 /* Contenedor titulo Disputa Territorial */
-.sub-titulo-h3-Motivos{
+.sub-disputa-territorial{
     margin-top: 15px;
     border-radius: 35px;
     background-color: #435334;
 }
 
-/*Titulo texto*/
-.sub-titulo-h3-Motivos h3{
+/*Titulo disputa territorial*/
+.sub-disputa-territorial h3{
     text-align: center;
     padding: 30px;
     color: white;
 }
 
 /* Contenido Motivos (Subtitulo y texto) */
-.contenido-motivos {
+.cont-sub-tex-disputa-territorial {
     width: 40%;
 }
 
-.contenido-motivos .text{
+.cont-sub-tex-disputa-territorial .text{
     width: 100%;
     margin: 0;
     padding: 30px;
@@ -225,22 +231,40 @@ article{
     color: #fffdfb;
 }
 
+/*Contenedor texto disputa territorial*/
+.texto-disputa-territorial{
+    width: auto;
+    padding: 30px;
+    background-color: #79797927;
+    border-radius: 45px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+/*Parrafo disputa territorial*/
+.texto-disputa-territorial {
+    background-color: #435334b0;
+    color: white;
+}
+
 /* Imagen de Los soldados */
-.texto-der .imagen {
+.imagen-disputa-territorial {
     padding: 15px;
     width: 60%;   
 }
 
-.texto-der .imagen img {
+.imagen-disputa-territorial img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 15px; 
 }
 
-/* Contenedor titulo falta de censo */
-
-.texto-izq{
+/* Contenedor falta de censo */
+.cont-falta-censo{
     display: flex;
     padding: 4vh;
     background-color: #9EB384;
@@ -249,20 +273,24 @@ article{
     width: 100%; 
 }
 
-/* Subtitulo contenedor */
-.titulo-h3-falta-consenso {
+/* Subtitulo contenedor falta de censo*/
+.sub-falta-censo {
     margin-top: 15px;
     border-radius: 35px;
     background-color: #435334;
 }
-/* Subtitulo */
-.titulo-h3-falta-consenso h3 {
+/* Subtitulo texto falta de censo   */
+.sub-falta-censo h3 {
     text-align: center;
     padding: 30px;
     color: white;
 }
 
-.contenido-consenso .text{
+/* Contenedor Falta de censo (Subtitulo y texto)*/
+.cont-sub-text-falta-censo {
+    width: 40%;
+}
+.texto-falta-censo{
     width: 100%;
     margin: 0;
     padding: 30px;
@@ -271,15 +299,14 @@ article{
     color: #fffdfb;
 }
 
-.contenido-consenso {
-    width: 40%;
-}
-.texto-izq .imagen {
+/* contenedor Imagen falta de censo */
+.imagen-falta-censo{
     padding: 15px;
     width: 60%;   
 }
 
-.texto-izq .imagen img {
+/* imagen falta detexto-izq .imagen  censo img */
+.imagen-falta-censo img {
     width: 100%;
     height: 100%;
     object-fit: cover;
