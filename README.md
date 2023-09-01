@@ -4,7 +4,7 @@ Este proyecto consiste en una página web donde aplicamos los conocimientos sumi
 ---
 
 ## Integrantes
-* Andres Felipe Pardo Hernández (Lider)
+* Andrés Felipe Pardo Hernández (Lider)
 * Cristian Camilo Pardo Hernández
 * Daniel Felipe Rincón Guerrero
 
@@ -19,20 +19,12 @@ Después de varios siglos de yugo, la Segunda Gran Guerra se presento como la op
 
 ---
 
-### Objetivo
-Dar solución a la pregunta **¿Por qué no ha sido Descolonizada Sáhara Occidental?** nombrada en el proyecto como **La Ultima Colonia De África**; informando sobre definición, contexto histórico, características, causas y consecuencias. Para su realización se hará una investigación a través de medios digitales,posteriormente se desarrollará una página web en formato de artículo con una estructura intuitiva para el usuario y por medio de las tecnologías de programación de *Front-end* HTML (HyperText Markup Language, en español Lenguaje de Marcado de Hipertexto) para su estructuración y CSS (Cascading Style Sheets, en español Hojas de Estilo en Cascada) para su diseño con ayuda del *Framework* Bootstrap. Finalmente se busca brindar conocimiento a las personas para que puedan evaluar esta grave problemática y discesernir sobre las consecuencias que trae cualquier conflicto. 
+## Objetivo
+Dar solución a la pregunta **¿Por qué no ha sido Descolonizada Sáhara Occidental?** nombrada en el proyecto como **La Ultima Colonia De África**; informando sobre definición, contexto histórico, características, causas y consecuencias. Para su realización se hará una investigación a través de medios digitales,posteriormente se desarrollará una página web en formato de artículo con una estructura intuitiva para el usuario y por medio de tecnologías de programación de *Front-end* como: HTML (HyperText Markup Language, en español Lenguaje de Marcado de Hipertexto) para su estructuración y CSS (Cascading Style Sheets, en español Hojas de Estilo en Cascada) para su diseño con ayuda del *Framework* Bootstrap. Finalmente se busca brindar conocimiento a las personas para que puedan evaluar esta grave problemática y discernir sobre las consecuencias que trae cualquier conflicto. 
 
 ---
 
-### Wireframe
-El Wireframe se realizó mediante Mockflow, donde se busco la mayor simplicidad a la vista del usuario, con un diseño agradable y adaptado a dos plataformas (Desktop y Smartphone).
-[Diseño Web](https://www.canva.com/design/DAFs4pqlpKM/lgnQhsCGYRoafsqG3qpBpg/edit?utm_content=DAFs4pqlpKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-y [Diseño Mobile](https://www.canva.com/design/DAFs4l1Xclw/cWRLlk75jd3ErIdYnZksPQ/edit?utm_content=DAFs4l1Xclw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
-
-### Estado del arte
-
+## Estado del arte
 Este proyecto se adentra en una investigación acerca del proceso de descolonización, centrándose de manera específica en la siguiente interrogante: **¿Por qué el Sahara Occidental aún no ha logrado su proceso de descolonización?** El objetivo fundamental es exponer este conflicto y presentar las posibles vías de resolución disponibles.
 
 En un análisis divulgado en **2019** en la plataforma "**El Orden Mundial**", Blas Moreno aborda la razón por la cual la **ONU** continúa considerando al Sahara Occidental como una colonia de España, a pesar de los esfuerzos de este último por separarse del territorio saharaui.
@@ -47,7 +39,16 @@ En definitiva, el proyecto ha permitido arrojar luz sobre las múltiples facetas
 
 ---
 
-### Bibliografia 
+## Diseños
+
+Los diseños de la página web se realizaron por medio de wireframes a través de Mockflow, donde se buscó la mayor simplicidad a la vista del usuario, con un diseño y estructura agradable y adaptado a dos plataformas (Desktop y Smartphone).
+
+
+[Diseño Web](https://www.canva.com/design/DAFs4pqlpKM/lgnQhsCGYRoafsqG3qpBpg/edit?utm_content=DAFs4pqlpKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+y [Diseño Mobile](https://www.canva.com/design/DAFs4l1Xclw/cWRLlk75jd3ErIdYnZksPQ/edit?utm_content=DAFs4l1Xclw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+## Bibliografia 
 * Triviño María Paula, (2020). El Sahara Occidental, la última colonia africana. AA. https://www.aa.com.tr/es/análisis/el-sahara-occidental-la-última-colonia-africana/2084155
 
 * Ayén Francisco, (2009). La descolonización, Profe francisco. https://www.profesorfrancisco.es/2009/11/la-descolonizacion.html
