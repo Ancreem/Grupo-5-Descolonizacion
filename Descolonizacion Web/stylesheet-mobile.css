@@ -47,13 +47,47 @@
         background-color: #435334;
     }
 
+    .titulo-h3-mitad{
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+
     /* texto h3 centrado */
     .titulo-h3-izquierda h3{
         text-align: center;
     }
 
+    .sub-titulo-h3-Motivos{
+        margin-left: 5%;
+        margin-right: 5%;
+        border-radius: 35px;
+        background-color: #435334;
+        color:  white;
+    }
+    .sub-titulo-h3-Motivos h3{
+        text-align: center;
+    }
 
-    /* holaaaa */
+    .texto-der {
+        padding: 4vh;
+        background-color: #9EB384;
+        border-radius: 35px;
+    }
+
+    .texto-izq{
+        display: flex;
+        padding: 4vh;
+        background-color: #9EB384;
+        border-radius: 35px;
+        margin-top: 20px;
+        
+    }
+
+
+
+   
+
+    
 
 
 }
