@@ -188,27 +188,103 @@ article{
 }
 
 /*Contenedor Principal*/
-
 .texto-der {
+    padding: 4vh;
+    background-color: #9EB384;
     border-radius: 35px;
+    display:flex;
+    flex-direction: row;
+
 }
 
 /* Contenedor titulo Disputa Territorial */
 .sub-titulo-h3-Motivos{
     margin-top: 15px;
-    margin-right: 50%;
     border-radius: 35px;
     background-color: #435334;
 }
 
 /*Titulo texto*/
 .sub-titulo-h3-Motivos h3{
-    text-align: left;
+    text-align: center;
     padding: 30px;
     color: white;
 }
 
+/* Contenido Motivos (Subtitulo y texto) */
+.contenido-motivos {
+    width: 40%;
+}
 
+.contenido-motivos .text{
+    width: 100%;
+    margin: 0;
+    padding: 30px;
+    background-color: #435334b0;
+    border-radius: 45px;
+    color: #fffdfb;
+}
 
+/* Imagen de Los soldados */
+.texto-der .imagen {
+    padding: 15px;
+    width: 60%;   
+}
 
+.texto-der .imagen img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px; 
+}
+
+/* Contenedor titulo falta de censo */
+
+.texto-izq{
+    display: flex;
+    padding: 4vh;
+    background-color: #9EB384;
+    border-radius: 35px;
+    margin-top: 20px;  
+    width: 100%; 
+}
+
+/* Subtitulo contenedor */
+.titulo-h3-falta-consenso {
+    margin-top: 15px;
+    border-radius: 35px;
+    background-color: #435334;
+}
+/* Subtitulo */
+.titulo-h3-falta-consenso h3 {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+.contenido-consenso .text{
+    width: 100%;
+    margin: 0;
+    padding: 30px;
+    background-color: #435334b0;
+    border-radius: 45px;
+    color: #fffdfb;
+}
+
+.contenido-consenso {
+    width: 40%;
+}
+.texto-izq .imagen {
+    padding: 15px;
+    width: 60%;   
+}
+
+.texto-izq .imagen img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px; 
+}
 /*<----------------------------------------------->*/
+
+
