@@ -42,6 +42,12 @@ En definitiva, el proyecto ha permitido arrojar luz sobre las múltiples facetas
 ## Diseños
 Los diseños de la página web se realizaron por medio de wireframes a través de Mockflow, donde se buscó la mayor simplicidad a la vista del usuario, con un diseño y estructura agradable y adaptado a dos plataformas (Desktop y Smartphone).
 ### *Desktop design* (Diseño de escritorio)
+[Diseño Web](https://www.canva.com/design/DAFs4pqlpKM/lgnQhsCGYRoafsqG3qpBpg/edit?utm_content=DAFs4pqlpKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Diseño Web](https://raw.githubusercontent.com/Ancreem/Grupo-5-Descolonizacion/master/Diseños/Desktop_Design.png)
+
+<span>![</span><span>Desktop design</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Ancreem/Grupo-5-Descolonizacion/master/Diseños/Desktop_Design.png</span><span>)</span>
+
 A continuación se explicará cada parte del diseño de la página web según su orden de aparición:
 #### Pestaña principal
 * **Encabezado:** se muestra el menú de 	navegación con el logo y pestañas correspondientes.
@@ -52,15 +58,13 @@ A continuación se explicará cada parte del diseño de la página web según su
 #### Tercera pestaña
 * **Tarjetas:** donde se presentan las posibles soluciones del problema de manera dinámica.
 ### *Smartphone design* (Diseño móvil)
+[Diseño Mobile](https://www.canva.com/design/DAFs4l1Xclw/cWRLlk75jd3ErIdYnZksPQ/edit?utm_content=DAFs4l1Xclw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 * **Encabezado:** se muestra el menú de navegación con el logo y pestañas correspondientes, cambiando su diseño por un menú en hamburguesa.
 * El resto del diseño se presenta igual al Desktop design, pero adaptado a un tamaño más pequeño.
 
-
-
-[Diseño Web](https://www.canva.com/design/DAFs4pqlpKM/lgnQhsCGYRoafsqG3qpBpg/edit?utm_content=DAFs4pqlpKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-y [Diseño Mobile](https://www.canva.com/design/DAFs4l1Xclw/cWRLlk75jd3ErIdYnZksPQ/edit?utm_content=DAFs4l1Xclw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ---
+
 ## Bibliografia 
 * Triviño María Paula, (2020). El Sahara Occidental, la última colonia africana. AA. https://www.aa.com.tr/es/análisis/el-sahara-occidental-la-última-colonia-africana/2084155
 
