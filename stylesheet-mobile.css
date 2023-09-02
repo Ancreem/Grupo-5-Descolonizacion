@@ -1,87 +1,100 @@
 @media (max-width: 900px){
-
-    /*Seccion Que es*/
-    .titulo-principal{
-        margin-left: 15%;
-        margin-right: 15%;
-        border-radius: 35px;
-        background-color: #435334;
+    #banner h1{
+        color: white;
+        font-size: 40px;
+        font-weight: 400px;
+        padding-bottom: 120px;
     }
-    /*Contenedor Princial*/
-    .texto-izq{
+    /*Seccion Que es*/
+    .titulo-que-es{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-que-es{
         display: flex;
         flex-direction: column;
-        background-color: #9EB384;
-        border-radius: 35px;
     }
-    /*Parrafo*/
-    .text{
-        width: auto;
-        padding: 30px;
-        background-color: #435334b0;
-        border-radius: 45px;
-        margin: 20px;
-        color: #fffdfb;
-    }
-    /*Contenedor Imagen*/
-    .imagen{
-        padding: 15px;
-        width: auto;
-    }
-
-    /*Dimension Imagen*/
-    .imagen img {
+    .texto-que-es{
         width: 100%;
-        height: 100%;
-        object-fit: cover;
-        border-radius: 15px;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
     }
-
-    /* Seccion ¿Por qué Sáhara Occidental sigue sin ser descolonizada? */
-
-    /* contenedor titulo h3 */
-    .titulo-h3-izquierda{
-        margin-left: 15%;
-        margin-right: 15%;
-        border-radius: 35px;
-        background-color: #435334;
+    .imagen-que-es{
+        width: 100%;
+        padding: 3%;
     }
-
-    .titulo-h3-mitad{
-        margin-left: 20%;
-        margin-right: 20%;
+    /*Seccion ¿Por qué Sáhara Occidental sigue sin ser descolonizada?*/
+    .titulo-porque-sahara{
+        margin: auto;
     }
-
-    /* texto h3 centrado */
-    .titulo-h3-izquierda h3{
+    .titulo-porque-sahara h3{
         text-align: center;
     }
-
-    .sub-titulo-h3-Motivos{
-        margin-left: 5%;
-        margin-right: 5%;
-        border-radius: 35px;
-        background-color: #435334;
-        color:  white;
-    }
-    .sub-titulo-h3-Motivos h3{
-        text-align: center;
-    }
-
-    .texto-der {
-        padding: 4vh;
-        background-color: #9EB384;
-        border-radius: 35px;
-    }
-
-    .texto-izq{
+    .cont-porque-sahara{
         display: flex;
-        padding: 4vh;
-        background-color: #9EB384;
-        border-radius: 35px;
-        margin-top: 20px;
-        
+        flex-direction: column;
     }
+    .texto-porque-sahara{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
+    }
+
+    /*Motivos*/
+    .titulo-motivos{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-motivos{
+        display: flex;
+        flex-direction: column;
+    }
+    .sub-disputa-territorial{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-sub-tex-disputa-territorial{
+        width: 100%;
+    }
+    .texto-disputa-territorial{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
+    }
+    .imagen-disputa-territorial{
+        width: 100%;
+        padding: 3%;
+    }
+
+    /* Contenedor falta de censo */
+    .cont-falta-censo{
+        display: flex;
+        flex-direction: column;
+    }
+    .sub-falta-censo{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-sub-text-falta-censo{
+        width: 100%;
+    }
+    .texto-falta-censo{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
+    }
+    .imagen-falta-censo{
+        width: 100%;
+        padding: 3%;  
+    }
+
+
+
+
 
 
 
