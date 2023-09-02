@@ -312,6 +312,180 @@ article{
     object-fit: cover;
     border-radius: 30px; 
 }
+
+
 /*<----------------------------------------------->*/
 
+
+
+/* SAHARA OCCIDENTAL */
+.titulo-sahara-occidental{
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 35px;
+    background-color: #435334;
+}
+
+
+/*Titulo de Seccion - Sahara Guerra*/
+.titulo-sahara-occidental{
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 35px;
+    background-color: #435334;
+}
+
+/* Contenedor Principal de Segunda Guerra Mundial en Sahara */
+.cont-sahara-guerra{
+    display: flex;
+    padding: 4vh;
+    background-color: #9EB384;
+    border-radius: 35px;
+    margin-top: 20px;  
+    width: 100%; 
+}
+
+/* Subtitulo contenedor Segunda Guerra Mundial en Sahara*/
+.sub-sahara-guerra {
+    margin-top: 15px;
+    border-radius: 35px;
+    background-color: #435334;
+}
+/* Subtitulo texto falta de censo   */
+.sub-sahara-guerra h3 {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+/* Contenedor Segunda Guerra Mundial en Sahara (Subtitulo y texto)*/
+.cont-sub-text-sahara-guerra {
+    width: 80%;
+}
+.texto-sahara-guerra{
+    width: 100%;
+    margin: 0;
+    padding: 30px;
+    background-color: #435334b0;
+    border-radius: 45px;
+    color: #fffdfb;
+}
+
+/* contenedor Imagen Segunda Guerra Mundial en Sahara */
+.imagen-sahara-guerra{
+    padding: 15px;
+    width: 60%;   
+    text-align: center;
+}
+
+/* imagen Segunda Guerra Mundial en Sahara img */
+.imagen-sahara-guerra img {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px; 
+}
+
+/*<----------------------------------------------->*/
+
+/* Contenedor Principal de Segunda Guerra Mundial en Sahara */
+.cont-frente-polisario{
+    display: flex;
+    padding: 4vh;
+    background-color: #9EB384;
+    border-radius: 35px;
+    margin-top: 20px;  
+    width: 100%; 
+}
+
+/* Subtitulo contenedor Segunda Guerra Mundial en Sahara*/
+.sub-frente-polisario {
+    margin-top: 15px;
+    border-radius: 35px;
+    background-color: #435334;
+}
+/* Subtitulo texto falta de censo   */
+.sub-frente-polisario h3 {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+/* Contenedor Segunda Guerra Mundial en Sahara (Subtitulo y texto)*/
+.cont-sub-text-frente-polisario {
+    width: 50%;
+}
+.texto-frente-polisario{
+    width: 100%;
+    margin: 0;
+    padding: 30px;
+    background-color: #435334b0;
+    border-radius: 45px;
+    color: #fffdfb;
+}
+
+/* contenedor Imagen Segunda Guerra Mundial en Sahara */
+.imagen-frente-polisario{
+    padding: 15px;
+    width: 60%;   
+    text-align: center;
+}
+
+/* imagen Segunda Guerra Mundial en Sahara img */
+.imagen-frente-polisario img {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px; 
+}
+
+
+/*<----------------------------------------------->*/
+/* Contenedor Principal marruecos-mauritania */
+.cont-marruecos-mauritania{
+    display: flex;
+    padding: 4vh;
+    background-color: #9EB384;
+    border-radius: 35px;
+    margin-top: 20px;  
+    width: 100%; 
+}
+
+/* Subtitulo contenedor falta de censo*/
+.sub-marruecos-mauritania {
+    margin-top: 15px;
+    border-radius: 35px;
+    background-color: #435334;
+}
+/* Subtitulo texto falta de censo   */
+.sub-marruecos-mauritania h3 {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+/* Contenedor Falta de censo (Subtitulo y texto)*/
+.cont-sub-text-marruecos-mauritania {
+    width: 40%;
+}
+.texto-marruecos-mauritania{
+    width: 100%;
+    margin: 0;
+    padding: 30px;
+    background-color: #435334b0;
+    border-radius: 45px;
+    color: #fffdfb;
+}
+
+/* contenedor Imagen falta de censo */
+.imagen-marruecos-mauritania{
+    padding: 15px;
+    width: 60%;   
+}
+
+/* imagen falta detexto-izq .imagen  censo img */
+.imagen-marruecos-mauritania img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px; 
+}
 
