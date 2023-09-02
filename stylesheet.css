@@ -488,4 +488,90 @@ article{
     object-fit: cover;
     border-radius: 30px; 
 }
+/*------------------------------------------------- */
+
+.que-se-ha-intentado-container{
+    max-width: 1200px;
+    margin: auto;
+    background-color: #CEDEBD;
+    border-bottom-left-radius: 70px ;
+    border-bottom-right-radius: 70px;
+}
+
+
+/* QUE SE HA INTENTADO */
+.titulo-que-se-ha-intentado{
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border-radius: 35px;
+    background-color: #435334;
+    color: #ededed;
+    text-align: center;
+}
+
+/*Cards Que se ha intentado */
+.cards {
+    width: 100%;
+    max-width: 1600px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+.card-body {
+    width: 100px;
+    height: 700px;
+    border-radius: 35px;
+    overflow: hidden;
+    border: 6px solid #435334;
+    margin: 10px;
+    position:sticky;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+/*Info cards contain*/
+.card-info {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: -100%;
+    position: absolute;
+    border: 15px;
+    backdrop-filter: blur(3px) brightness(40%);
+    color: #ededed;
+    padding: 35px;
+
+    display: flex;
+    flex-direction: column;
+    transition: 0.5s;
+}
+
+.card-title {
+    padding-top: 25px;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #9EB384;
+}
+
+.card-txt {
+    padding-top: 3rem;
+    text-transform: capitalize;
+    line-height: 35px;
+    font-size: 20px;
+    margin: 40px, 0;
+    font-weight: 400px;
+}
+/*Transicion de volver con hover*/
+.card-body:hover .card-info{
+    right: 0;
+}
 
