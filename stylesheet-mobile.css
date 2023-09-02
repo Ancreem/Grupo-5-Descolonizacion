@@ -91,16 +91,98 @@
         width: 100%;
         padding: 3%;  
     }
+    .titulo-porque-sahara{
+        margin: auto;
+    }
+    .titulo-porque-sahara h3{
+        text-align: center;
+    }
+    .cont-porque-sahara{
+        display: flex;
+        flex-direction: column;
+    }
+    .texto-porque-sahara{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
+    }
 
+    /*sahara-occidental*/
+    .titulo-sahara-occidental{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-sahara-guerra{
+        display: flex;
+        flex-direction: column;
+    }
+    .sub-sahara-guerra{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-sub-text-sahara-guerra{
+        width: 100%;
+    }
+    .texto-sahara-guerra{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
+    }
+    .imagen-sahara-guerra{
+        width: 100%;
+        padding: 3%;
+    }
 
+    /*sahara-occidental*/
+    .cont-frente-polisario{
+        display: flex;
+        flex-direction: column;
+    }
+    .sub-frente-polisario{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-sub-text-frente-polisario{
+        width: 100%;
+    }
+    .texto-frente-polisario{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
+    }
+    .imagen-frente-polisario{
+        width: 100%;
+        padding: 3%;
+    }
 
-
-
-
-
-   
-
-    
+    .cont-marruecos-mauritania{
+        display: flex;
+        flex-direction: column;
+    }
+    .sub-marruecos-mauritania{
+        margin: auto;
+        text-align: center;
+    }
+    .cont-sub-text-marruecos-mauritania{
+        width: 100%;
+    }
+    .texto-marruecos-mauritania{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: 7%;
+    }
+    .imagen-marruecos-mauritania{
+        width: 100%;
+        padding: 3%;  
+    }
+    .titulo-que-se-ha-intentado{
+        margin: auto;
+        text-align: center;
+    }
 
 
 }
