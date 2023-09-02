@@ -162,7 +162,7 @@ article{
     color: white;
 }
 
-/*Contenedor Imagen Niña*/
+/*Contenedor Imagen*/
 .imagen-porque-sahara{
     margin: 15px;
     width: auto;
@@ -316,30 +316,34 @@ article{
 
 /*<----------------------------------------------->*/
 
-
-
 /* SAHARA OCCIDENTAL */
+#sahara{
+    background-color: #EEEEEE;
+}
+.sahara-container{
+    max-width: 1200px;
+    margin: auto;
+    background-color: #64CCC5;
+}
 .titulo-sahara-occidental{
     margin-left: 25%;
     margin-right: 25%;
     border-radius: 35px;
-    background-color: #435334;
 }
-
 
 /*Titulo de Seccion - Sahara Guerra*/
 .titulo-sahara-occidental{
     margin-left: 25%;
     margin-right: 25%;
     border-radius: 35px;
-    background-color: #435334;
+    background-color: #053B50;
 }
 
 /* Contenedor Principal de Segunda Guerra Mundial en Sahara */
 .cont-sahara-guerra{
     display: flex;
     padding: 4vh;
-    background-color: #9EB384;
+    background-color: #176B87;
     border-radius: 35px;
     margin-top: 20px;  
     width: 100%; 
@@ -349,7 +353,7 @@ article{
 .sub-sahara-guerra {
     margin-top: 15px;
     border-radius: 35px;
-    background-color: #435334;
+    background-color: #053B50;
 }
 /* Subtitulo texto falta de censo   */
 .sub-sahara-guerra h3 {
@@ -366,7 +370,7 @@ article{
     width: 100%;
     margin: 0;
     padding: 30px;
-    background-color: #435334b0;
+    background-color: #7bcac586;
     border-radius: 45px;
     color: #fffdfb;
 }
@@ -391,7 +395,7 @@ article{
 .cont-frente-polisario{
     display: flex;
     padding: 4vh;
-    background-color: #9EB384;
+    background-color: #176B87;
     border-radius: 35px;
     margin-top: 20px;  
     width: 100%; 
@@ -401,7 +405,7 @@ article{
 .sub-frente-polisario {
     margin-top: 15px;
     border-radius: 35px;
-    background-color: #435334;
+    background-color: #053B50;
 }
 /* Subtitulo texto falta de censo   */
 .sub-frente-polisario h3 {
@@ -418,7 +422,7 @@ article{
     width: 100%;
     margin: 0;
     padding: 30px;
-    background-color: #435334b0;
+    background-color: #7bcac586;
     border-radius: 45px;
     color: #fffdfb;
 }
@@ -443,7 +447,7 @@ article{
 .cont-marruecos-mauritania{
     display: flex;
     padding: 4vh;
-    background-color: #9EB384;
+    background-color: #176B87;
     border-radius: 35px;
     margin-top: 20px;  
     width: 100%; 
@@ -453,7 +457,7 @@ article{
 .sub-marruecos-mauritania {
     margin-top: 15px;
     border-radius: 35px;
-    background-color: #435334;
+    background-color: #053B50;
 }
 /* Subtitulo texto falta de censo   */
 .sub-marruecos-mauritania h3 {
@@ -470,7 +474,7 @@ article{
     width: 100%;
     margin: 0;
     padding: 30px;
-    background-color: #435334b0;
+    background-color: #7bcac586;
     border-radius: 45px;
     color: #fffdfb;
 }
@@ -489,11 +493,14 @@ article{
     border-radius: 30px; 
 }
 /*------------------------------------------------- */
+#Que-se-ha-intentado{
+    background-color: #d8f5d1;
+}
 
 .que-se-ha-intentado-container{
     max-width: 1200px;
     margin: auto;
-    background-color: #CEDEBD;
+    background-color: #92b395   ;
     border-bottom-left-radius: 70px ;
     border-bottom-right-radius: 70px;
 }
