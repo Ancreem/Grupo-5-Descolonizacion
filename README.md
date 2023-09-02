@@ -40,8 +40,21 @@ En definitiva, el proyecto ha permitido arrojar luz sobre las múltiples facetas
 ---
 
 ## Diseños
-
 Los diseños de la página web se realizaron por medio de wireframes a través de Mockflow, donde se buscó la mayor simplicidad a la vista del usuario, con un diseño y estructura agradable y adaptado a dos plataformas (Desktop y Smartphone).
+### *Desktop design* (Diseño de escritorio)
+A continuación se explicará cada parte del diseño de la página web según su orden de aparición:
+#### Pestaña principal
+* **Encabezado:** se muestra el menú de 	navegación con el logo y pestañas correspondientes.
+* **Banner:** se presenta el título principal y su respectiva imagen de fondo.
+* **Artículos:** donde se presenta la introducción del tema del modo general hasta el modo especifico.
+#### Segunda pestaña
+* **Artículos:** donde se expone el tema específico a profundidad.
+#### Tercera pestaña
+* **Tarjetas:** donde se presentan las posibles soluciones del problema de manera dinámica.
+### *Smartphone design* (Diseño móvil)
+* **Encabezado:** se muestra el menú de navegación con el logo y pestañas correspondientes, cambiando su diseño por un menú en hamburguesa.
+* El resto del diseño se presenta igual al Desktop design, pero adaptado a un tamaño más pequeño.
+
 
 
 [Diseño Web](https://www.canva.com/design/DAFs4pqlpKM/lgnQhsCGYRoafsqG3qpBpg/edit?utm_content=DAFs4pqlpKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
